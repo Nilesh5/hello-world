@@ -1,3 +1,4 @@
 Hi ,
 
 This is my first commit to Git
+Before committing to Git
